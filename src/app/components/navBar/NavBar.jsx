@@ -39,7 +39,7 @@ const Navbar = () => {
       }
     };
     checkAuthentication();
-  }, [user]);
+  }, [user, router]);
 
   return (
     <div className="header">
