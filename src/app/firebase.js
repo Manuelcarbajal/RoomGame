@@ -16,7 +16,7 @@ const firebaseConfig = {
   storageBucket: "astral-room.appspot.com",
   messagingSenderId: "560361572255",
   appId: "1:560361572255:web:8d2139f952a66cd4dddfaa",
-  measurementId: "G-R3D5RZQJSX",
+  measurementId: "",
 };
 
 // Initialize Firebase
