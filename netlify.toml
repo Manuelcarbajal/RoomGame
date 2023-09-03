@@ -3,5 +3,3 @@
   to = "/"
   status = 200
 
-[build]
-  ignore = ["**/*ExperimentalWarning*"]
