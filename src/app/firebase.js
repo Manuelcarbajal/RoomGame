@@ -11,9 +11,9 @@ import { getFirestore } from "firebase/firestore";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyAa4lewqWnYmOWFWwVnDX226VJ6EWAaWUc",
-  authDomain: "astral-room.firebaseapp.com",
+  authDomain: "room-game-gilt.vercel.app",
   projectId: "astral-room",
-  storageBucket: "astral-room.appspot.com",
+  storageBucket: "room-game-gilt.vercel.app",
   messagingSenderId: "560361572255",
   appId: "1:560361572255:web:8d2139f952a66cd4dddfaa",
   measurementId: "",
